@@ -1,0 +1,1 @@
+Implentation of the old Acumulus invoicing API. As far as I know it still works with the current version yet I cannot give any guarantees on that. Uploaded this on request.
